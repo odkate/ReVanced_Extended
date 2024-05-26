@@ -266,8 +266,8 @@
     <string name="revanced_disable_auto_captions_summary_on">Примусові авто субтитри вимкнено</string>
     <string name="revanced_disable_auto_captions_summary_off">Примусові авто субтитри увімкнено</string>
     <string name="revanced_disable_splash_animation_title">Вимкнути сплеш анімацію</string>
-    <string name="revanced_disable_splash_animation_summary_on">Слеш анімацію вимкнено.</string>
-    <string name="revanced_disable_splash_animation_summary_off">Слеш анімацію увімкнено.</string>
+    <string name="revanced_disable_splash_animation_summary_on">Сплеш анімацію вимкнено.</string>
+    <string name="revanced_disable_splash_animation_summary_off">Сплеш анімацію увімкнено.</string>
     <string name="revanced_enable_gradient_loading_screen_title">Увімкнути градієнт екрану завантаження</string>
     <string name="revanced_enable_gradient_loading_screen_summary_on">Градієнт екрану завантаження увімкнено.</string>
     <string name="revanced_enable_gradient_loading_screen_summary_off">Градієнт екрану завантаження вимкнено.</string>
