@@ -76,12 +76,12 @@
     <string name="revanced_hide_album_card_summary_on">Картки альбомів приховано.</string>
     <string name="revanced_hide_album_card_summary_off">Картки альбому показується.</string>
     <string name="revanced_hide_carousel_shelf_summary">"Приховати наступні полиці:
-- Важливі новини
-- Продовжити перегляд
-- Переглянути більше каналів
-- Прослухати знову
-- Покупки
-- Переглянути ще раз"</string>
+• Важливі новини
+• Продовжити перегляд
+• Переглянути більше каналів
+• Прослухати знову
+• Покупки
+• Переглянути ще раз"</string>
     <string name="revanced_hide_carousel_shelf_title">Приховати карусельну полицю</string>
     <string name="revanced_hide_chips_shelf_title">Приховати полицю фішок</string>
     <string name="revanced_hide_chips_shelf_on">Полицю фішок приховано</string>
