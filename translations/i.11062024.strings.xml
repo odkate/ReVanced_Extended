@@ -863,9 +863,9 @@
     <string name="revanced_hide_suggestions_section_title">Приховати секції пропозицій</string>
     <string name="revanced_hide_suggestions_section_summary_on">Секції гри, музики, місць приховано.</string>
     <string name="revanced_hide_suggestions_section_summary_off">Секції гри, музики, місць показується.</string>
-    <string name="revanced_hide_transcript_section_title">Приховати секції транскрипту</string>
-    <string name="revanced_hide_transcript_section_summary_on">Секції транскрипту приховано.</string>
-    <string name="revanced_hide_transcript_section_summary_off">Секції транскрипту показується.</string>
+    <string name="revanced_hide_transcript_section_title">Приховати секції Текст відео</string>
+    <string name="revanced_hide_transcript_section_summary_on">Секції Текст відео приховано.</string>
+    <string name="revanced_hide_transcript_section_summary_off">Секції Текст відео показується.</string>
     <!-- PreferenceScreen: Player, PreferenceCategory: Player, PreferenceScreen: Video description, PreferenceCategory: Experimental Flags -->
     <string name="revanced_disable_video_description_interaction_title">Вимкнути взаємодію з описом відео</string>
     <string name="revanced_disable_video_description_interaction_summary">"Вимикається такі взаємодії під час розгортання опису відео:
