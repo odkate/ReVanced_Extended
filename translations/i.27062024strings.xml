@@ -242,7 +242,7 @@
     <!-- PreferenceScreen: Feed, PreferenceCategory: Feed, PreferenceScreen: Video filter, PreferenceCategory: View count filter -->
     <string name="revanced_preference_category_view_counts_filter">Фільтр за кількістю переглядів</string>
     <string name="revanced_hide_video_by_view_counts_title">Приховати рекомендовані відео за переглядами</string>
-    <string name="revanced_hide_video_by_view_counts_summary">Приховати рекомендовані відео з меншою за вказану кількість переглядів.\n\nВдома проблема: Відео з 0 переглядами не фільтруються.</string>
+    <string name="revanced_hide_video_by_view_counts_summary">Приховати рекомендовані відео з меншою за вказану кількість переглядів.\n\nВідома проблема: Відео з 0 переглядами не фільтруються.</string>
     <string name="revanced_hide_video_view_counts_greater_than_title">Більші за переглядами</string>
     <string name="revanced_hide_video_view_counts_greater_than_summary">Відео з більше ніж ця кількість переглядів приховуватимуться.</string>
     <string name="revanced_hide_video_view_counts_less_than_title">Менші за переглядами</string>
@@ -1028,7 +1028,7 @@
     <string name="revanced_enable_shorts_time_stamp_title">Увімкнути мітку часу</string>
     <string name="revanced_enable_shorts_time_stamp_summary_on">"Мітку часу увімкнено.
 
-Відомо проблема: Оскільки ця функція на стадії розробки Google, макет може бути порушений."</string>
+Відома проблема: Оскільки ця функція на стадії розробки Google, макет може бути порушений."</string>
     <string name="revanced_enable_shorts_time_stamp_summary_off">Мітку часу вимкнено.</string>
     <string name="revanced_hide_shorts_toolbar_title">Приховати панель інструментів</string>
     <string name="revanced_hide_shorts_toolbar_summary_on">Панель інструментів приховано.</string>
