@@ -866,7 +866,7 @@
     <string name="revanced_hide_seekbar_chapters_summary_on">Розділи приховано у панелі прогресу.</string>
     <string name="revanced_hide_seekbar_chapters_summary_off">Розділи показується у панелі прогресу.</string>
     <string name="revanced_hide_time_stamp_title">Приховати мітку часу</string>
-    <string name="revanced_hide_time_stamp_summary_on">Мітка часу приховано.</string>
+    <string name="revanced_hide_time_stamp_summary_on">Мітку часу приховано.</string>
     <string name="revanced_hide_time_stamp_summary_off">Мітку часу показується.</string>
     <string name="revanced_restore_old_seekbar_thumbnails_title">Відновити старі мініатюри панелі прогресу</string>
     <string name="revanced_restore_old_seekbar_thumbnails_summary_on">Мініатюри панелі прогресу зображатиметься над панеллю прогресу.</string>
