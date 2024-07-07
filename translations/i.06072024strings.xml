@@ -791,10 +791,10 @@
     <string name="revanced_overlay_button_always_repeat_title">Показувати кнопку постійного повторення</string>
     <string name="revanced_overlay_button_always_repeat_summary">"Натискайте для перемикання станів постійного повторення.
 Натисніть й утримуйте для призупинення перемикання станів повторення."</string>
-    <string name="revanced_overlay_button_copy_video_url_title">Показати кнопку копіювання URL відео</string>
+    <string name="revanced_overlay_button_copy_video_url_title">Показувати кнопку копіювання URL відео</string>
     <string name="revanced_overlay_button_copy_video_url_summary">"Натисніть, щоб скопіювати URL відео.
 Натисніть і утримуйте, щоб скопіювати URL відео з міткою часу."</string>
-    <string name="revanced_overlay_button_copy_video_url_timestamp_title">Показати кнопку копіювання URL із міткою часу</string>
+    <string name="revanced_overlay_button_copy_video_url_timestamp_title">Показувати кнопку копіювання URL із міткою часу</string>
     <string name="revanced_overlay_button_copy_video_url_timestamp_summary">"Натисніть, щоб скопіювати URL відео із міткою часу.
 Натисніть і утримуйте, щоб скопіювати мітку часу відео."</string>
     <string name="revanced_overlay_button_external_downloader_title">Показувати кнопку зовнішнього завантаження</string>
