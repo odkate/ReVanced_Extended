@@ -347,7 +347,7 @@
 Це змінить вигляд і функції додатка, але можуть трапитися невідомі побічні ефекти.
 
 Якщо пізніше вимкнути, рекомендується очистити дані додатка, щоб запобігти помилкам інтерфейсу."</string>
-    <string name="revanced_spoof_app_version_user_dialog_message_19_16">Вимкнення цього налаштування може спричинити помилку всі сторони сервера YouTube, що спричиняє приховування тексту лічильників таких як вподобайки, перегляди, та дати завантаження.</string>
+    <string name="revanced_spoof_app_version_user_dialog_message_19_16">Вимкнення цього налаштування може спричинити помилку зі сторони сервера YouTube, що спричиняє приховування тексту лічильників таких як вподобайки, перегляди, та дати завантаження.</string>
     <string name="revanced_spoof_app_version_target_title">Підробити цільову версію програми</string>
     <string name="revanced_spoof_app_version_target_summary">Введіть цільову версію підробки програми</string>
     <string name="revanced_spoof_app_version_target_entry_title">Підробити цільову версію програми</string>
